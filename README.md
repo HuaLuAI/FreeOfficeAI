@@ -22,6 +22,3 @@ Free office AI tool
 
 ![Excel示例](Images/excel.png)
 
-## 联系方式：
-技术交流、学习、优化、BUG修正等可联系：  
-邮箱：844309084@qq.com
